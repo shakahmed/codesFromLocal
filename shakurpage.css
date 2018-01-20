@@ -1,0 +1,63 @@
+
+
+body{
+	background: #bdc3c7;
+	background-size: cover;
+	padding: 70px;
+
+.blue{
+	background: blue;
+	border: 1px solid green
+}
+
+
+img{
+	margin-left: 35px
+	padding; 45px
+}
+
+h1{
+	color: 797E8D
+	background: lightgray;
+	
+	/*border: medium dashed green;*/
+
+}
+
+h2{
+	color: green;
+	text-decoration: underline;
+}
+
+h3{
+	color: green;
+	text-decoration: underline;
+}
+
+
+p{
+	color: navyblue;
+	margin: 25px
+}
+
+img{
+	border: 11px solid lightgreen;
+	background: lightgray
+	margin-left: 1em 
+}
+
+
+ul{
+	color: darkblue;
+}
+
+
+button:focus, button:active, button:focus {
+	background-color: white
+	background: orange;
+}
+
+
+
+
+
